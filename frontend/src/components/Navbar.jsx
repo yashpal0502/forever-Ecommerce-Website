@@ -143,7 +143,7 @@ const Navbar = () => {
             onClick={() => setVisible(false)}
             target="_blank"
             className="py-2 pl-6 border"
-            href="http://localhost:5174"
+            href="https://forever-ecommerce-admin-orpin.vercel.app"
           >
             ADMIN PANEL
           </a>
