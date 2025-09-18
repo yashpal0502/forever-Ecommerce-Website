@@ -44,7 +44,7 @@ const Navbar = () => {
           <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
         </NavLink>
         <a
-          href="http://localhost:5174"
+          href="https://forever-ecommerce-admin-orpin.vercel.app"
           target="_blank"
           className="flex flex-col items-center gap-1 text-sm text-pink-600 border px-3 py-1 rounded hover:bg-pink-600 hover:text-white transition-all duration-500"
         >
